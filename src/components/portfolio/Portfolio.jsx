@@ -64,7 +64,7 @@ const Portfolio = () => {
       title: 'Ecommerce Webstore',
       img: IMG6,
       description:
-        'command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.',
+        'went over advanced React & JavaScript topics, as well as how to use Stripe for card transactions',
       technologies: 'JavaScript | React | Stripe',
       link: 'https://zalyaclothing.myshopify.com',
       github: 'https://github.com/Musikavanhu/Ecommerce-store',

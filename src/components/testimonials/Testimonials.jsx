@@ -18,7 +18,7 @@ const Testimonials = () => {
       link: 'https://www.linkedin.com/in/uzairali19/',
       name: 'Uzair Ali',
       role: 'Full-Stack Web Developer. JavaScript | Rails | React | Redux. Improving open-source projects, one commit at a time.',
-      test: 'As a developer and a problem solver, I think Tino is a great collaborative partner to have. I met Tino in some basic javascript & react projects and since then she has drastically progressed in her understanding of the development process. He always has a professional environment and has good audio and video quality which makes it easier to communicate with him.',
+      test: 'As a developer and a problem solver, I think Tino is a great collaborative partner to have. I met Tino in some basic javascript & react projects and since then he has drastically progressed in his understanding of the development process. He always has a professional environment and has good audio and video quality which makes it easier to communicate with him.',
     },
     {
       id: 2,
@@ -32,7 +32,7 @@ const Testimonials = () => {
       link: 'https://www.linkedin.com/in/akuu-khan/',
       name: 'akbar (Aku) Khan',
       role: 'Full Stack Developer| Ruby on Rails | PostgreSQL | JavaScript | React | Redux | Html&Css | Python.',
-      test: 'I worked with Tino in the same team and her communication skills are very strong. Her programming skill is one of the bests, given the time frame in the field. He is a good team player.  He will probably fit in most of the companies not only because he\'s a good team worker, but also because he has very good skills and I know he has much more potential to be shown.',
+      test: 'I worked with Tino in the same team and her communication skills are very strong. His programming skill is one of the bests, given the time frame in the field. He is a good team player.  He will probably fit in most of the companies not only because he\'s a good team worker, but also because he has very good skills and I know he has much more potential to be shown.',
     },
     {
       id: 4,
