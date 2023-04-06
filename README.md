@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://raw.github.com/Meri-MG/portfolio---react/master/src/assets/port.png)
+
 
 ## Built With
 
@@ -9,9 +9,7 @@
 - CSS
 - VS code
 
-## Live Demo
 
-- [Live Demo](https://meri-mg-portfolio.netlify.app/)
 
 
 # Getting Started
@@ -28,9 +26,9 @@
 
 - Choose a folder in your local machine where you want this repository to be copied
 
-- Clone this [repository](https://github.com/Meri-MG/portfolio---react) to your local machine 
+- Clone this [repository](https://github.com/Musikavanhu/Resume) to your local machine 
 - ```
-  git clone git@github.com:Meri-MG/portfolio---react.git
+  git clone git@github.com:Musikavanhu/Resume.git
   ```
 
 - Navigate to `cd portfolio---react`  directory.
@@ -47,14 +45,11 @@
 
 ## Author
 
-:woman: **Meri Gogichashvili**
+ **Tino Musikavanhu**
 
-- [GitHub](https://github.com/Meri-MG)
-- [LinkedIn](https://www.linkedin.com/in/meri-gogichashvili/)
+- [GitHub](https://github.com/Musikavanhu)
+- [LinkedIn](https://www.linkedin.com/in/tino-m-630086124/)
 
-## 🤝 Contributing
-- Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/Meri-MG/portfolio---react/issues).
 
 # Show your support
 Give a ⭐ if you like this project!
